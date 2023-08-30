@@ -4,13 +4,13 @@ https://techcrunch.com adresinde ana sayfa ve haber sayfalarından biri için bi
 
 - Ana sayfadaki "Son Haberler" listesi için şunları doğruluyor;
 
-a. her haberin yazarı olup olmadığını,
-b. her haberin görüntüsü olup olmaması durumunu,
+* Her haberin yazarı olup olmadığını,
+* Her haberin görüntüsü olup olmaması durumunu,
 
 - Daha sonra "Son Haberler" listesindeki haberlerden birine tıklayarak içeriğin tamamına ulaşır ve ardından doğrulama yapar;
 
-a. tarayıcı başlığının haber başlığı ile aynı olup olmadığını,
-b. haber içeriği içinde bulunan bağlantıların sayısını,
+* Tarayıcı başlığının haber başlığı ile aynı olup olmadığını,
+* Haber içeriği içinde bulunan bağlantıların sayısını,
 
 Kod, Selenium Framework ve testNG kütüphanesi ile Java kullanılarak yazılmıştır.
 
